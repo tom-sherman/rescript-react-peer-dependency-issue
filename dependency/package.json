@@ -1,0 +1,23 @@
+{
+  "name": "dependency",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "rescript",
+    "clean": "rescript clean -with-deps",
+    "start": "rescript build -w"
+  },
+  "keywords": [
+    "rescript"
+  ],
+  "files": [
+    "src",
+    "bsconfig.json"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "rescript": "*",
+    "@rescript/react": "^0.10.3"
+  }
+}

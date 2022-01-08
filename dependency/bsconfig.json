@@ -1,0 +1,15 @@
+{
+  "name": "dependency",
+  "version": "0.0.1",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": [
+    "@rescript/react"
+  ],
+  "warnings": {
+    "error": "+101"
+  }
+}
