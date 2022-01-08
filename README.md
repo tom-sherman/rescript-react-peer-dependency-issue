@@ -11,7 +11,7 @@ npm start
 
 Expected:
 
-Built package:
+Built package
 
 Actual:
 
